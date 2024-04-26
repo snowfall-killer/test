@@ -12,6 +12,8 @@ git pull --rebase
 
 git rebase --continue
 
+將近端資料推送到遠端
+
 git add .
 
 git commit -m ""
