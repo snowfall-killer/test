@@ -6,6 +6,8 @@ The git command notes.
 
 git submodule add <url> <submodule name>
 
+將遠端資料拉下來與近端同步
+
 git pull --rebase
 
 git rebase --continue
